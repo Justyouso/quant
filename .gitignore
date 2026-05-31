@@ -1,0 +1,44 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# macOS
+.DS_Store
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# env 文件（敏感信息）
+.env
+*.env
+
+# logs
+*.log
+
+# build / dist
+build/
+dist/
+*.egg-info/
